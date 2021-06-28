@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1013824536567",
+    "firebase_url": "https://picombichat.firebaseio.com",
+    "project_id": "picombichat",
+    "storage_bucket": "picombichat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013824536567:android:384627af60c108dbb7b8f2",
+        "android_client_info": {
+          "package_name": "com.rustam.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1013824536567-bs60ma29gesvdvnroq0ud5b1abt2t6n0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rustam.chat",
+            "certificate_hash": "3f9b802be4f8106465feb69bb9855528fcc7a0da"
+          }
+        },
+        {
+          "client_id": "1013824536567-7fqifnjfq98ock2urqu5e6umttqh5ok6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABRPQOw6nAwC2FLxqhUs4262vq6ouaIKU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1013824536567-7fqifnjfq98ock2urqu5e6umttqh5ok6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
