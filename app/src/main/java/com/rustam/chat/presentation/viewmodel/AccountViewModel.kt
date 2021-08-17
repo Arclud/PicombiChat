@@ -17,7 +17,7 @@ class AccountViewModel @Inject constructor(
         }
     }
 
-    private fun handleRegister(none: None) {
+    fun handleRegister(none: None) {
         this.registerData.value = none
     }
 
